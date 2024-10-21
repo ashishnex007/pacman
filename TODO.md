@@ -1,0 +1,5 @@
+- [] - 8bit font
+- [] - add sounds to the game
+- [] - add powerups
+- [] - pause menu
+- [] - heading bar to show the game score and lives
